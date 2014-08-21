@@ -126,7 +126,7 @@ footer {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+background-size: 100% 100%;
   padding: 0px 20px 0px 20px;
   margin: 0 auto;
 }
