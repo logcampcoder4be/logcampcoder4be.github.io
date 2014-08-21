@@ -99,7 +99,7 @@ section-two {
   background-image: url();
 }
 
-section-five {
+#section-five {
   background-color: #cc0000;
   background-image: url(../images/tree_bark.png);
   font-family: 'Dancing Script', cursive;
