@@ -122,7 +122,8 @@ header {
 }
 
 footer {
-  background: url(../images/full-width-image.jpg) no-repeat center; 
+  background: no-repeat center; 
+  background-image: url();
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
