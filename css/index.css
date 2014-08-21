@@ -66,6 +66,11 @@ header {
   background-size: cover;
   padding: 250px 0px 250px 0px;
   margin: 0 auto;  
+  
+}
+
+.ui.button {
+  color: #ffff00;
 }
 
 #about {
