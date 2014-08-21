@@ -74,6 +74,10 @@ header {
   color: #ffff00;
 }
 
+.ui.button.yellow {
+  background-color: #fff000;
+}
+
 #about {
   background-color: none;
 } 
