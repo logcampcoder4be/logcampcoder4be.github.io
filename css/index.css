@@ -101,11 +101,13 @@ header {
 #section-five {
   background-color: #cc0000;
   background-image: url(../images/tree_bark.png);
+  font-family: 'Dancing Script', cursive;
 }
 
 .tree {
   background: url(../images/tree_bark.png) center; 
   padding: 50px 20px 50px 20px;
+  font-family: 'Dancing Script', cursive;
   margin: 0 auto;
 }
 
