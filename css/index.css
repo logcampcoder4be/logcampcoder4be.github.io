@@ -123,6 +123,10 @@ header {
 
 footer {
   background-image: url("http://www.buncee.com/clip_art/hair/buncee_clipart_hair_11.png");
+    -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   margin: 0 auto;
   padding: 500px 0px 500px 0px;
 }
